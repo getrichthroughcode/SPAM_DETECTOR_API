@@ -27,7 +27,7 @@ Example HTTP request:
 
 ```http
 POST /detect-spam HTTP/1.1
-Host: your_api_address.com
+Host: 
 Content-Type: application/json
 
 {
