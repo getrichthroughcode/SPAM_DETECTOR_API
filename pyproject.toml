@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 scikit-learn = "^1.5.1"
 pandas = "^2.2.2"
+nltk = "^3.9.1"
+urlextract = "^1.9.0"
 
 
 [tool.poetry.group.dev.dependencies]
